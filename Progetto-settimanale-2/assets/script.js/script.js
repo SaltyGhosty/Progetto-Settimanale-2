@@ -130,3 +130,5 @@ const filtraProdotti = function() {
     return listaFiltrata;
 };
 console.log(filtraProdotti());
+
+//---------------------------------------------------------------------------------------------------//
